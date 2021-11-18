@@ -1,0 +1,31 @@
+.header {
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.logo {
+    width: 200px;
+    height: 52px;
+    padding: 15px 60px;
+}
+
+.menu {
+    display: inline-block;
+    margin-right: 60px;
+}
+
+.menu_h3 {
+    display: inline-block;
+    margin-right: 30px;
+    padding: 15px;
+}
+
+a {
+    color: #ffffff;
+}
+
+a:hover {
+    text-decoration: underline;
+}

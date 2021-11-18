@@ -1,0 +1,10 @@
+.form {
+    display: inline;
+    /* flex-direction: column;
+    width: 100%; */
+}
+
+.btn {
+    justify-content: center;
+}
+

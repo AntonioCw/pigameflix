@@ -1,0 +1,16 @@
+.menu_btn {
+    background-color: #ffffff;
+    color: var(--primary);
+    
+    padding: 15px 25px;
+    border: none;
+    border-radius: 5px;
+}
+.menu_btn:hover {
+    background-color: #813B9C;
+    color: #ffffff;
+    
+    padding: 15px 25px;
+    border: none;
+    border-radius: 5px;
+}

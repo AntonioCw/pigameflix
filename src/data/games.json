@@ -1,0 +1,101 @@
+[
+	{
+		"id": 1,
+		"titulo": "Sea of Thieves",
+		"desenvolvedor": "Rare Ltd",
+		"descricao": "Sea of Thieves oferece a experiência pirata definitiva, desde navegar e lutar até explorar e pilhar - tudo o que você precisa para viver a vida pirata e se tornar uma lenda por seus feitos. Sem nenhum papel definido, você tem total liberdade para interagir com o mundo e os outros jogadores como preferir. Seja viajando em grupo ou velejando a sós, você certamente encontrará outras tripulações nessa aventura de mundo compartilhado - mas serão elas amigas ou inimigas, e o que você fará a respeito?",
+		"requisitos": "Requer um processador e sistema operacional de 64 bits <br/> SO: Windows 10<br/>Processador: Intel Q9450 @ 2.6GHz or AMD Phenom II X6 @ 3.3 GHz<br/>Memória: 4 GB de RAM<br/>Placa de vídeo: Nvidia GeForce GTX 650 or AMD Radeon 7750<br/>DirectX: Versão 11<br/>Armazenamento: 50 GB de espaço disponível",
+		"imagem1": "../../public/games-assets/sea-of-thieves/ss_584788d0004933fb10420fe9284515e6f7be577f.1920x1080.jpg",
+		"imagem2": ""
+	},
+	{
+		"id": 2,
+		"titulo": "EA SPORTS™ FIFA 21",
+		"desenvolvedor": "Electronic Arts",
+		"descricao": "O futebol está de volta com o EA SPORTS™ FIFA 21, com mais formas de cooperar nas ruas ou nos estádios para ter vitórias ainda maiores com seus amigos.0",
+		"requisitos": "Requer um processador e sistema operacional de 64 bits<br/>SO: Windows 10 - 64-Bit<br/>Processador: Intel Core i3-6100 @ 3.7GHz or AMD Athlon X4 880K @4GHz<br/>Memória: 8 GB de RAM<br/>Placa de vídeo: NVIDIA GTX 660 2GB or AMD Radeon HD 7850 2GB<br/>Armazenamento: 50 GB de espaço disponível",
+		"imagem1": "../../public/games-assets/games-assets/fifa-21/ss_6012c6b167ec471d316e939bc1ac1d97b438f293.1920x1080.jpg",
+		"imagem2": ""
+	},
+	{
+		"id": 3,
+		"titulo": "Destiny 2: Além A Luz - Edição Deluxe",
+		"desenvolvedor": "Bungie",
+		"descricao": "Um novo poder nasce da antiga nave pirâmide sobre a gélida fronteira de Europa. Um império sombrio surgiu. Em Destiny 2: Além da Luz, junte-se a Guardiões e derrube tal império a todo custo – mesmo que isso signifique ter que usar a própria Treva.",
+		"requisitos": "Requer um processador e sistema operacional de 64 bits<br/>SO: Windows® 7 / Windows® 8.1 / Windows® 10 64-bit (latest Service Pack)<br/>Processador: Intel® Core™ i3 3250 3.5 GHz or Intel Pentium G4560 3.5 GHz / AMD FX-4350 4.2 GHz<br/>Memória: 6 GB de RAM<br/>Placa de vídeo: NVIDIA® GeForce® GTX 660 2GB or GTX 1050 2GB / AMD Radeon HD 7850 2GB<br/>Rede: Conexão de internet banda larga<br/>Armazenamento: 105 GB de espaço disponível",
+		"imagem1": "../../public/games-assets/games-assets/destiny/ss_fe8eec1ec94b10bfa40737caeb81a4c50f646e3c.1920x1080.jpg",
+		"imagem2": ""
+	},
+	{
+		"id": 4,
+		"titulo": "Phasmophobia",
+		"desenvolvedor": "Kinetic Games",
+		"descricao": "Phasmophobia is a 4 player online co-op psychological horror where you and your team members of paranormal investigators will enter haunted locations filled with paranormal activity and gather as much evidence of the paranormal as you can. You will use your ghost hunting equipment to search for and record evidence of whatever ghost is haunting the location to sell onto a ghost removal team.",
+		"requisitos": "Requer um processador e sistema operacional de 64 bits<br/>SO: Windows 10 64Bit<br/>Processador: Intel Core i5-4590 / AMD FX 8350<br/>Memória: 8 GB de RAM<br/>Placa de vídeo: NVIDIA GTX 970 / AMD Radeon R9 290<br/>Rede: Conexão de internet banda larga<br/>Armazenamento: 13 GB de espaço disponível<br/>Outras observações: Minimum Specs are for VR, lower specs may work for Non-VR.",
+		"imagem1": "../../public/games-assets/games-assets/phasmophobia/ss_59023d418d1825e574ad75911da34f5814a6bb9d.1920x1080.jpg",
+		"imagem2": ""
+	},
+	{
+		"id": 5,
+		"titulo": "Cyberpunk 2077",
+		"desenvolvedor": "CD PROJEKT RED",
+		"descricao": "Cyberpunk 2077 é uma história de ação e aventura de mundo aberto ambientada em Night City, uma megalópole obcecada por poder, glamour e biomodificações. Você joga como V, um mercenário fora da lei atrás de um implante único que carrega a chave da imortalidade. Você pode personalizar aparatos cibernéticos, conjunto de habilidades e estilo de jogo do personagem e explorar uma vasta cidade onde as decisões tomadas definem a história e o mundo ao seu redor.",
+		"requisitos": "Requer um processador e sistema operacional de 64 bits<br/>SO: Windows 7 or 10<br/>Processador: Intel Core i5-3570K or AMD FX-8310<br/>Memória: 8 GB de RAM<br/>Placa de vídeo: NVIDIA GeForce GTX 780 or AMD Radeon RX 470<br/>DirectX: Versão 12<br/>Armazenamento: 70 GB de espaço disponível<br/>Outras observações: SSD recommended",
+		"imagem1": "../../public/games-assets/games-assets/cyberpunk/ss_9beef14102f164fa1163536d0fb3a51d0a2e4a3f.1920x1080.jpg",
+		"imagem2": ""
+	},
+	{
+		"id": 6,
+		"titulo": "Among Us",
+		"desenvolvedor": "Innersloth",
+		"descricao": "Play with 4-10 player online or via local WiFi as you attempt to prepare your spaceship for departure, but beware as one or more random players among the Crew are Impostors bent on killing everyone!<br/>Originally created as a party game, we recommend playing with friends at a LAN party or online using voice chat. Enjoy cross-platform play between Android, iOS and PC.",
+		"requisitos": "SO: Windows 7 SP1+<br/>Processador: SSE2 instruction set support<br/>Memória: 1 GB de RAM<br/>DirectX: Versão 10<br/>Armazenamento: 250 MB de espaço disponível",
+		"imagem1": "../../public/games-assets/games-assets/cyberpunk/ss_9beef14102f164fa1163536d0fb3a51d0a2e4a3f.1920x1080.jpg",
+		"imagem2": ""
+	},
+	{
+		"id": 7,
+		"titulo": "Nioh: Complete Edition",
+		"desenvolvedor": "KOEI TECMO GAMES CO., LTD",
+		"descricao": "Prepare sua espada: combates intensos estão à sua espera em todos os cantos desse RPG de ação que se passa em uma grande região devastada pela guerra civil. Para sair vitorioso, será preciso ter paciência, descobrir quais são os pontos fortes de cada inimigo (humano ou demônio) e saber atacar seus pontos fracos na hora certa. Considere cada derrota como um degrau nesse longo caminho até a vitória. Só a morte pode fazê-lo encontrar o caminho do samurai.",
+		"requisitos": "Requer um processador e sistema operacional de 64 bits<br/>SO: Windows® 10 64bit, Windows® 8.1 64bit, Windows® 7 64bit<br/>Processador: Intel® Core ™ i5 3550 ou superior<br/>Memória: 6 GB de RAM<br/>Placa de vídeo: NVIDIA® GeForce® GTX 780 VRAM 3 GB ou superior AMD Radeon ™ R9 280 VRAM 3 GB ou superior<br/>DirectX: Versão 11<br/>Rede: Conexão de internet banda larga<br/>Armazenamento: 80 GB de espaço disponível<br/>Placa de som: 16 bit estéreo, 48 KHz WAVE pode ser reproduzido",
+		"imagem1": "../../public/games-assets/games-assets/nioh/ss_744edaca2857bdb6cfae5eddddf38b01456b27d6.1920x1080.jpg",
+		"imagem2": ""
+	},
+		{
+		"id": 9,
+		"titulo": "",
+		"desenvolvedor": "",
+		"descricao": "",
+		"requisitos": "",
+		"imagem1": "",
+		"imagem2": ""
+	},
+		{
+		"id": 10,
+		"titulo": "",
+		"desenvolvedor": "",
+		"descricao": "",
+		"requisitos": "",
+		"imagem1": "",
+		"imagem2": ""
+	},
+		{
+		"id": 11,
+		"titulo": "",
+		"desenvolvedor": "",
+		"descricao": "",
+		"requisitos": "",
+		"imagem1": "",
+		"imagem2": ""
+	},
+		{
+		"id": 12,
+		"titulo": "",
+		"desenvolvedor": "",
+		"descricao": "",
+		"requisitos": "",
+		"imagem1": "",
+		"imagem2": ""
+	}
+]

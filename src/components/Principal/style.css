@@ -1,0 +1,156 @@
+.page {
+    background-image: url(../../Assets/main-img.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-color: var(--second);
+}
+
+.first {
+    height: 750px;
+}
+
+.main {
+    background: var(--second);
+}
+
+.chamada {
+    display: flex;
+    flex-direction: column;
+    margin: auto 50% auto 80px;
+
+}
+
+.title-big {
+    color: #ffffff;
+
+}
+
+.title-medium {
+    text-align: left;
+    color: #ffffff;
+    line-height: 4vh;
+    font-size: 25px;
+}
+
+.play {
+    text-align: center;
+}
+
+.chamada-play {
+    width: 900px;
+    margin: 30px auto;
+}
+
+.list {
+    position: relative;
+    display: grid;
+}
+
+.list-games {
+    grid-template-columns: 210px 210px 210px 210px;
+}
+
+.list-games img {
+    border-radius: 5px;
+}
+
+.second {
+    display: flex;
+    background: repeating-linear-gradient( -23deg, var(--second) 0, var(--second) 50%, var(--primary) 0, var(--primary));
+}
+
+.position {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 80%;
+    height: 450px;
+    margin: 150px auto 50px;
+}
+
+.content {
+    color: #ffffff;
+    font-size: 8vh;
+}
+
+.exampleImage {
+    width: 600px;
+    height: 415px;
+}
+
+.clients {
+    text-align: center;
+    height: 500px;
+    border-bottom: solid 1px #ccc;
+}
+
+.clients h1 {
+    margin: 18px;
+}
+
+.client-list {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: 12px auto;
+}
+
+.gamer {
+    width: 240px;
+    height: 230px;
+    border-radius: 50%;
+}
+
+.gamer-th {
+    width: 180px;
+    height: 170px;
+    border-radius: 50%;
+}
+
+.client-list .client {
+    padding: 18px;
+}
+
+.client-list .description {
+    font-size: 14px;
+}
+
+.callToAction {
+    margin: 25px 0;
+    background: var(--second);
+    height: 800px;
+}
+
+.card {
+    width: 80%;
+    margin: 12px auto;
+    padding-bottom: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+.callToAction-card {
+    width: 300px;
+    height: 500px;
+    border: solid 3px #cccccc;
+    border-radius: 9px;
+    box-shadow: 8px -8px var(--primary);
+    color: var(--primary);
+    font-weight: bold;
+    font-size: 18px;
+    padding: 18px;
+    margin-top: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.callToAction-card:last-child {
+    background-color: var(--primary);
+    color: #ffffff;
+    border: solid 3px #3d0353;
+}
+

@@ -1,0 +1,42 @@
+/* 
+.carousel {
+  display: grid;
+  place-items: center;
+  height: 90vh;
+}
+
+#items-wrapper {
+  width: 100vw;
+}
+
+#items {
+  display: flex;
+  overflow-x: auto;
+}
+
+.item {
+  flex: none;
+  width: 200px;
+  height: 300px;
+  border: 2px solid #cccccc;
+  border-radius: 12px;
+}
+
+img {
+  width: 100%;
+  heigh: 100%;
+  
+  object-fit: cover;  
+} */
+
+/* .items {
+    width: 1000px;
+    margin: 0 auto;
+  } */
+
+.caroussel {
+    background-color: #E5E5E5;
+    width: 90%;
+    margin: auto;
+    border: #3d0353;
+}
